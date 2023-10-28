@@ -1,0 +1,17 @@
+
+
+img{
+    width: 50vw;
+    /* min-height: 100vh; */
+    
+}
+
+.top{
+    position: absolute;
+    display: flex;
+    top: 4vh;
+    left: 2vw;
+    gap: 40px;
+    color: white;
+    align-items: center;
+}
